@@ -1,0 +1,14 @@
+{
+  "name": "twilio",
+  "version": "1.0.0",
+  "description": "Setting up calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dtytomi",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^7.3.0"
+  }
+}
